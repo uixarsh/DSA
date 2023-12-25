@@ -1,0 +1,34 @@
+--------------------------------------------  
+                 RECURSION
+--------------------------------------------
+
+"Breaking bigger sized problems into smaller sized problems out of which we know the answer of smaller sized one."
+
+"Whenever an Operation is defined in terms of itself it is called Recursion"
+
+for ex:
+        void solve () {
+            solve();  => recursion is occuring
+        }
+
+
+1. Power,     2^5 = 2 x 2^4 || f(n) = 2 x f(n-1)
+2. Factorial, fact(n) = n x fact(n-1)
+3. Counting,  print(n) then call->f(n-1)
+4. Fibonacci, fib(n) = fib(n-1) + fib(n-2)
+
+
+so,
+-----------------
+f(n) = n x f(n-1)
+-----------------
+
+
+Recursive Code
+--------------
+
+    1. Base Case => Rukna kab hai
+    2. Recursive Relation/ Recursive Call => f(n) = n x f(n-1)
+    3. Processing => Procesing{Optional}
+
+
