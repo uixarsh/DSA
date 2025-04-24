@@ -138,4 +138,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
