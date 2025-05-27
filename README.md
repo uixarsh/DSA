@@ -138,10 +138,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+| [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,4 +156,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
