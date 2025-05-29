@@ -139,6 +139,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -164,4 +165,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
