@@ -148,6 +148,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0033-search-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uixarsh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/uixarsh/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
@@ -181,4 +182,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0033-search-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uixarsh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/uixarsh/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
