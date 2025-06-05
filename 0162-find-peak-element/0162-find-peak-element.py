@@ -8,8 +8,20 @@ class Solution:
         if nums[n-1] > nums[n-2]:
             return (n-1)
         
-        for i in range(0,n-1):
-            if nums[i] > nums[i-1] and nums[i] > nums[i+1]:
-                return i
+        start = 1
+        end = n-1
+        while start<=end:
+            mid = start + (end-start)//2
+            if nums[mid] > nums[mid-1] and nums[mid] > nums[mid+1]:
+                return mid
+            
+            # Element are increasing in order
+            elif nums[mid-1] < nums[mid]:
+                start = mid+1
+            
+            # Elements are decreasing in order
+            # 
+            else:
+                end = mid-1
 
         return -1
