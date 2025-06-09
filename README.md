@@ -158,6 +158,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -191,4 +192,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
