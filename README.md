@@ -155,6 +155,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/uixarsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -164,6 +165,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/uixarsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Linked List
@@ -208,6 +210,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -227,4 +230,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
