@@ -138,6 +138,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
@@ -151,6 +152,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -217,6 +219,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
