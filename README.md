@@ -141,6 +141,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
@@ -176,6 +177,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -234,4 +236,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
