@@ -3,11 +3,10 @@ class Solution:
         """
         Do not return anything, modify s in-place instead.
         """
-        N = len(s)
-        start_ptr = 0
-        end_ptr = N-1
-
-        while start_ptr<end_ptr:
-            s[start_ptr], s[end_ptr] = s[end_ptr], s[start_ptr]
-            start_ptr +=1
-            end_ptr -=1
+        self.rev(s, 0, len(s)-1)
+    
+    def rev(self, s: List[str], start_ptr: int, end_ptr: int):
+        if end_ptr < start_ptr:
+            return
+        s[start_ptr], s[end_ptr] = s[end_ptr], s[start_ptr]
+        self.rev(s, start_ptr+1, end_ptr-1)
