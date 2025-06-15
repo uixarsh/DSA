@@ -140,6 +140,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
@@ -178,6 +179,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 ## Enumeration
@@ -235,6 +237,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
