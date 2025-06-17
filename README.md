@@ -154,6 +154,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uixarsh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/uixarsh/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
@@ -221,6 +222,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
@@ -262,4 +264,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
