@@ -1,16 +1,17 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        str1 = self.get_dict_chr(s)
-        str2 = self.get_dict_chr(t)
-        if str1 == str2:
+        d1 = self.get_hash(s)
+        d2 = self.get_hash(t)
+        if d1 == d2:
             return True
         return False
-
-    def get_dict_chr(self, s : str):
-        char_count = {}
-        for char in s:
-            if char in char_count:
-                char_count[char] += 1
+        
+    def get_hash(self, s : str) -> dict:
+        d = dict()
+        for i in s:
+            if i not in d:
+                d[i] = 0
             else:
-                char_count[char] = 1
-        return char_count
+                d[i]+=1
+        return d
+    
