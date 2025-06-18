@@ -219,6 +219,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -265,4 +266,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
