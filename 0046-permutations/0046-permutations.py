@@ -1,17 +1,16 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         lst = []
-        self.find_permutations(nums, [], lst)
+        self.find_permutations(nums, 0, lst)
         return lst
     
-    def find_permutations(self, ip, op, rslt) -> None:
-        ip_len = len(ip)
+    def find_permutations(self, ip : List[int], start : int, rslt : List[int]) -> None:
         
-        if ip_len == 0:
-            rslt.append(op)
+        if start == len(ip)-1:
+            rslt.append(ip[:])
             return
-
-        for i in range(ip_len):
-            new_ip = ip[0:i] + ip[i+1:]
-            new_op = op + [ip[i]]
-            self.find_permutations(new_ip, new_op, rslt)
+        
+        for i in range(start, len(ip)):
+            ip[start], ip[i] = ip[i], ip[start]
+            self.find_permutations(ip, start+1, rslt)
+            ip[start], ip[i] = ip[i], ip[start]     # Backtracking 
