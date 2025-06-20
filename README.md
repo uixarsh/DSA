@@ -266,6 +266,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/uixarsh/DSA/tree/master/0077-combinations) |
 ## Stack
 |  |
 | ------- |
