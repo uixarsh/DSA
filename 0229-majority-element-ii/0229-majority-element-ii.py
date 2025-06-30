@@ -1,17 +1,15 @@
 class Solution:
-    def majorityElement(self, arr: List[int]) -> List[int]:
-        # Find all the element more that n//3 times.
+    def majorityElement(self, nums: List[int]) -> List[int]:
         d = {}
-        N=len(arr)
-        for i in range(N):
-            if arr[i] not in d:
-                d[arr[i]] = 1
+        for ele in nums:
+            if ele not in d:
+                d[ele] = 1
             else:
-                d[arr[i]]+=1
-        lst = []
-        times = N//3
-        for keys,value in d.items():
-            if value > times:
-                lst.append(keys)
+                d[ele]+=1
+        
+        found = []
+        for key, value in d.items():
+            if value > len(nums)//3:
+                found.append(key)
 
-        return lst
+        return found
