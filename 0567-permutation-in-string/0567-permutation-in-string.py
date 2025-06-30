@@ -1,7 +1,7 @@
 class Solution:
     def checkInclusion(self, s1: str, s2: str) -> bool:
-        # if s1 in s2:
-        #     return True
+        if s1 in s2:
+            return True
         else:
             # Store frequency of characters in s1
             freq = [0]*26
