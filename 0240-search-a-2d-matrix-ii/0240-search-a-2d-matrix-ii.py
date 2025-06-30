@@ -3,25 +3,15 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
 
-        for row_idx in range(m):
-            col_idx = self.BS(matrix[row_idx], target)
-            if col_idx != -1:
+        row = 0
+        col = n-1
+        
+        while row<m and col>=0:
+            if matrix[row][col] == target:
                 return True
+            elif matrix[row][col] > target:
+                col-=1
+            else:
+                row+=1
         
         return False
-
-    def BS(self, arr, tgt):
-        start = 0
-        end = len(arr) - 1
-        while start<=end:
-            mid = start + (end-start)//2
-            if arr[mid] == tgt:
-                return mid
-            
-            if arr[mid] > tgt:
-                end = mid-1
-            
-            else:
-                start = mid+1
-
-        return -1
