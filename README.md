@@ -155,6 +155,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0035-search-insert-position](https://github.com/uixarsh/DSA/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -204,6 +205,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -244,6 +246,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
