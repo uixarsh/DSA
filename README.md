@@ -177,6 +177,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
@@ -226,6 +227,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
@@ -300,6 +302,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Queue
