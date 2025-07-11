@@ -164,6 +164,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/uixarsh/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -304,6 +305,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/uixarsh/DSA/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/uixarsh/DSA/tree/master/0216-combination-sum-iii) |
 ## Stack
 |  |
 | ------- |
