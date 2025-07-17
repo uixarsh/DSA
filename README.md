@@ -237,6 +237,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -305,6 +306,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/uixarsh/DSA/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/uixarsh/DSA/tree/master/0216-combination-sum-iii) |
 ## Stack
 |  |
