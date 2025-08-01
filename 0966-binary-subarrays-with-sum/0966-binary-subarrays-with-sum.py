@@ -1,8 +1,8 @@
 class Solution:
     def numSubarraysWithSum(self, nums: List[int], goal: int) -> int:
         
-
         def solve(nums, goal):
+            # Determines all the subarrays with sum <= goal
             if goal < 0:
                 return 0
 
@@ -22,4 +22,4 @@ class Solution:
 
             return cnt
 
-        return solve(nums,goal) - solve(nums, (goal-1))
+        return solve(nums,goal) - solve(nums, (goal-1))  # (subarray sum <=k) - (subarray sum <= (k-1)) = subarray sum == k
