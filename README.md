@@ -244,6 +244,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/uixarsh/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
@@ -320,6 +321,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/uixarsh/DSA/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
