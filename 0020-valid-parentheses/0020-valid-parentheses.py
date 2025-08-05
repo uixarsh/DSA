@@ -27,10 +27,7 @@ class Solution:
             return False
         
         for i in range(n):
-            if s[i] in '([{':
-                v.pushback(s[i])
-            
-            elif s[i] == ')' and v.top() == '(':
+            if s[i] == ')' and v.top() == '(':
                 v.popback()
 
             elif s[i] == '}' and v.top() == '{':
