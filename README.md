@@ -257,6 +257,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uixarsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
@@ -337,6 +338,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -391,5 +393,10 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
