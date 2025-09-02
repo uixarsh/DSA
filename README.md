@@ -162,6 +162,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
@@ -281,6 +282,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -310,6 +312,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
@@ -333,6 +336,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0020-valid-parentheses](https://github.com/uixarsh/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -386,5 +390,6 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
