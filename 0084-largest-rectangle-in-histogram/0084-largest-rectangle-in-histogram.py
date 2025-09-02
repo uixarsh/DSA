@@ -1,34 +1,22 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
+        st = []
+        maxArea = 0
         n = len(heights)
 
-        def next_smaller_ele() -> list:
-            st = []
-            d = [n] * n
-            for i in range(n - 1, -1, -1):
-                while st and heights[i] <= heights[st[-1]]:
-                    st.pop()
-                if st:
-                    d[i] = st[-1]
-                st.append(i)
-            return d
-
-        def prev_smaller_ele() -> list:
-            st = []
-            d = [-1] * n
-            for i in range(n):
-                while st and heights[i] <= heights[st[-1]]:
-                    st.pop()
-                if st:
-                    d[i] = st[-1]
-                st.append(i)
-            return d
-
-        nse = next_smaller_ele()
-        pse = prev_smaller_ele()
-
-        area = 0
         for i in range(n):
-            area = max(area, heights[i] * (nse[i] - pse[i] - 1))
-        
-        return area
+            while st and heights[st[-1]] > heights[i]:
+                ele = st.pop()
+                nse = i
+                pse = st[-1] if st else -1
+                maxArea = max(maxArea, (heights[ele]* (nse-pse-1)))
+            st.append(i)
+
+        # If elements got left over
+        while st:
+            ele = st.pop()
+            nse = n
+            pse = st[-1] if st else -1
+            maxArea = max(maxArea, (heights[ele]* (nse-pse-1)))
+
+        return maxArea
