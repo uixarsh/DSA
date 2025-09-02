@@ -341,6 +341,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -395,8 +396,17 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
