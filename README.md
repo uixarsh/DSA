@@ -338,6 +338,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0225-implement-stack-using-queues](https://github.com/uixarsh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
@@ -357,6 +358,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/uixarsh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
@@ -406,6 +408,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/uixarsh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
