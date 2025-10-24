@@ -1,25 +1,29 @@
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        # Binary Search
-        # Search First index as well as Last Index 
-        # O(log n)
-        return [self.binary_srch(nums, target, False), self.binary_srch(nums, target, True)]
         
+        if not nums:
+            return [-1, -1]
+        
+        def bs (occ=None) -> int:
+            n = len(nums)
+            l = 0
+            r = n-1
+            res = -1
 
-    def binary_srch(self, nums, target, findFirstIdx):
-        first = 0
-        last = len(nums)-1
-        res = -1
-        while first <= last:
-            mid = first + (last-first)//2
-            if nums[mid] > target:
-                last = mid-1
-            elif nums[mid] < target:
-                first = mid+1
-            else:
-                res = mid
-                if findFirstIdx:
-                    first = mid+1       # Checking for last occurence
+            while l <= r:
+                mid = l + (r-l)//2
+                if nums[mid] < target:
+                    l = mid + 1
+                elif nums[mid] > target:
+                    r = mid - 1
                 else:
-                    last = mid-1         # Checking for first occurence
-        return res
+                    if nums[mid] == target:
+                        res = mid
+
+                    if occ == 'f':  # Check for first occurence.
+                        r = mid - 1
+                    else:
+                        l = mid + 1
+            return res
+        
+        return [bs('f'), bs()]
