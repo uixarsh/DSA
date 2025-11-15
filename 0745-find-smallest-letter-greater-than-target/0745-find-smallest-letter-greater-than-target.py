@@ -9,7 +9,7 @@ class Solution:
         while start <= end:
             mid = start + (end-start)//2
                 
-            if ord(letters[mid]) > ord(target):
+            if letters[mid] > target:
                 res = letters[mid]
                 end = mid-1
             
