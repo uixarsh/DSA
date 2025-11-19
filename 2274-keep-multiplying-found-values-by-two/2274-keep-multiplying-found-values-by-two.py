@@ -1,12 +1,10 @@
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
-        # Brute Force
-        ele = original
-        n = len(nums)
-        x = sorted(nums)
-        
-        for i in range(n):
-            if x[i] == ele:
-                ele *= 2
+        rslt = original
+        x = sorted(set(nums))
 
-        return ele
+        for i in x:
+            if i == rslt:
+                rslt *= 2
+
+        return rslt
