@@ -284,6 +284,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Matrix
@@ -307,6 +308,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Counting
