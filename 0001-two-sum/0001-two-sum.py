@@ -7,4 +7,3 @@ class Solution:
                     sum.append(j)
                     sum.append(i)
                     return sum
-        
