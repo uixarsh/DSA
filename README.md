@@ -193,6 +193,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0966-binary-subarrays-with-sum](https://github.com/uixarsh/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1046-max-consecutive-ones-iii](https://github.com/uixarsh/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Database
 |  |
 | ------- |
