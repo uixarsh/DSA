@@ -189,6 +189,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/uixarsh/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -280,6 +281,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
 |  |
@@ -290,6 +292,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
@@ -298,6 +301,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -396,6 +400,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1127-last-stone-weight](https://github.com/uixarsh/DSA/tree/master/1127-last-stone-weight) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -451,4 +456,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/uixarsh/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
