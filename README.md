@@ -145,6 +145,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
