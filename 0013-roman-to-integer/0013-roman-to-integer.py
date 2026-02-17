@@ -19,15 +19,14 @@ class Solution:
             "CM" : 900
         }
 
+        total = 0
         n = len(s)
-        rslt = 0
-        rslt+=mpp[s[0]]
-        for i in range(1, n):
-            cse = s[i-1] + s[i]
-            if cse not in sp.keys():
-                rslt+=mpp[s[i]]
+
+        for i in range(n):
+            val = mpp[s[i]]
+            if i + 1 < n and val < mpp[s[i + 1]]:
+                total -= val
             else:
-                rslt -= mpp[s[i-1]]
-                rslt+=sp[cse]
-        
-        return rslt
+                total += val
+
+        return total
