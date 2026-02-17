@@ -24,7 +24,6 @@ class Solution:
         rslt+=mpp[s[0]]
         for i in range(1, n):
             cse = s[i-1] + s[i]
-            print(cse)
             if cse not in sp.keys():
                 rslt+=mpp[s[i]]
             else:
