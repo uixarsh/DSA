@@ -1,8 +1,14 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-        st = set(nums)
-        arr = []
-        for i in st:
-            arr.append(i)
-        arr.sort()
-        nums[:] = arr
+        # 2 POINTER APPROACH
+        i = 0
+        j = (i+1)
+        n = len(nums)
+
+        while j<n:
+            if nums[j] > nums[i]:
+                nums[i+1] = nums[j]
+                i+=1
+            j+=1
+        
+        del nums[i+1:j]
