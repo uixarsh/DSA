@@ -161,6 +161,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/uixarsh/DSA/tree/master/0075-sort-colors) |
@@ -313,6 +314,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -358,6 +360,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
