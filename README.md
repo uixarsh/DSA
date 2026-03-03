@@ -144,6 +144,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -237,6 +238,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0002-add-two-numbers](https://github.com/uixarsh/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 ## Enumeration
@@ -366,6 +368,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
@@ -373,6 +376,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
