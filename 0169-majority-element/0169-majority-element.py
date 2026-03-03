@@ -1,12 +1,16 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        d = {}
-        for ele in nums:
-            if ele not in d:
-                d[ele] = 1
+        n = len(nums)
+        mpp = dict()
+
+        for i in range(n):
+            if nums[i] not in mpp:
+                mpp[nums[i]] = 1
             else:
-                d[ele]+=1
-        
-        for key, value in d.items():
-            if value > len(nums)//2:
+                mpp[nums[i]] +=1
+
+        for key, val in mpp.items():
+            if val > n//2:
                 return key
+        
+        return -1
