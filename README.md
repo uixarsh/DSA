@@ -286,6 +286,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0020-valid-parentheses](https://github.com/uixarsh/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/uixarsh/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uixarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
@@ -337,6 +338,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uixarsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/uixarsh/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/uixarsh/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
