@@ -1,16 +1,22 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        '''
+        Moore's Voting Algorithm
+        ( If there exists and element >N/2 times i'm certain the algo will return it)
+        '''
         n = len(nums)
-        mpp = dict()
+        ele = -1
+        cnt = 0
 
         for i in range(n):
-            if nums[i] not in mpp:
-                mpp[nums[i]] = 1
-            else:
-                mpp[nums[i]] +=1
+            if cnt == 0:
+                ele = nums[i]
+                cnt+=1
+                continue
 
-        for key, val in mpp.items():
-            if val > n//2:
-                return key
-        
-        return -1
+            if nums[i] == ele:
+                cnt+=1
+            else:
+                cnt-=1
+
+        return ele
