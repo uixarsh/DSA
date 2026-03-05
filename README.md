@@ -169,6 +169,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/uixarsh/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/uixarsh/DSA/tree/master/0162-find-peak-element) |
@@ -211,6 +212,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/uixarsh/DSA/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/uixarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
@@ -495,4 +497,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
