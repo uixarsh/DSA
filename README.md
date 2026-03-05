@@ -303,6 +303,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/uixarsh/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Sorting
