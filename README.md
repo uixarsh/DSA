@@ -155,6 +155,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uixarsh/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/uixarsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uixarsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/uixarsh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/uixarsh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -309,6 +310,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/uixarsh/DSA/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/uixarsh/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
@@ -341,6 +343,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/uixarsh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/uixarsh/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uixarsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/uixarsh/DSA/tree/master/0075-sort-colors) |
