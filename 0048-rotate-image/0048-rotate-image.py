@@ -5,14 +5,12 @@ class Solution:
         """
         m = n = len(matrix)
 
-        rslt = []
+        # Take Transpose of the Matrix
+        for row in range(m):
+            for col in range(n):
+                if col > row:
+                    matrix[row][col], matrix[col][row] = matrix[col][row], matrix[row][col]
 
-        for col in range(n):
-            temp = []
-            for row in range(n-1, -1, -1):
-                temp.append(matrix[row][col])
-
-            rslt.append(temp)
-
-        matrix[:] = rslt[:]
-                
+        # Revese the Rows
+        for ele in matrix:
+            ele.reverse()
