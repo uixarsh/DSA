@@ -140,6 +140,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0002-add-two-numbers](https://github.com/uixarsh/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/uixarsh/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/uixarsh/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
@@ -163,6 +164,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/uixarsh/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/uixarsh/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/uixarsh/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -336,6 +338,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/uixarsh/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/uixarsh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/uixarsh/DSA/tree/master/0074-search-a-2d-matrix) |
