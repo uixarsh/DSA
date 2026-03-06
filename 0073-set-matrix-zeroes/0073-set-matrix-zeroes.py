@@ -6,23 +6,40 @@ class Solution:
         m = len(matrix)
         n = len(matrix[0])
 
-        zero_found = []
+        first_row_zero = False
+        first_col_zero = False
 
-        for i in range(m):
-            for j in range(n):
-                if matrix[i][j] == 0:
-                    # Store the row number and column number
-                    zero_found.append((i,j))
+        # Detect if first row originally has a zero
+        for col in range(n):
+            if matrix[0][col] == 0:
+                first_row_zero = True
+        
+        # Detect if first column originally has a zero
+        for row in range(m):
+            if matrix[row][0] == 0:
+                first_col_zero = True
 
-        for i, j in zero_found:
-            # i -> row
-            # j -> col
-            x = y = 0
+        # Mark the First Row and Fist Column Elements as Zero
+        for row in range(1, m):
+            for col in range(1, n):
+                if matrix[row][col] == 0:
+                    matrix[0][col] = 0  # col marker
+                    matrix[row][0] = 0  # row marker
 
-            while x<n:
-                matrix[i][x] = 0
-                x+=1
+        # Business logic
+        # Make the remaining matrix elements as zero starting from (1,1)
+        # take help of marking on first row and first col
+        for row in range(1, m):
+            for col in range(1, n):
+                if matrix[row][0] == 0 or matrix[0][col] == 0:
+                    matrix[row][col] = 0
+        
+        # Now check those first row does it contain any zero
+        if first_row_zero:
+            for col in range(n):
+                matrix[0][col] = 0
 
-            while y<m:
-                matrix[y][j] = 0
-                y+=1
+        # check first col does it contain any zero
+        if first_col_zero:
+            for row in range(m):
+                matrix[row][0] = 0
