@@ -1,29 +1,38 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
-        # SUM
-        # 1 to n2 ka sum
-        # 1+2+3+4 = 10
+        # S1 = n²(n² + 1) / 2
+        # actual_sum = S1 - b + a
 
-        mpp = {}
+        # S2 = n²(n²+1)(2n²+1)/6
+        # actual_sq_sum = S2 - b² + a²
+
         n = len(grid)
+
+        # Actual
+        t = n**2
+        actual_s1 = t*(t+1)//2
+        actual_s2 = t*(t+1)*(2*t+1) // 6
+
+        # Found
+        found_s1 = 0
+        found_s2 = 0
 
         for i in range(n):
             for j in range(n):
-                if grid[i][j] not in mpp:
-                    mpp[grid[i][j]] = 1
-                else:
-                    mpp[grid[i][j]] += 1
+                ele = grid[i][j]
+                found_s1 += ele
+                found_s2 += (ele*ele)
 
-        rslt = [0, 0]
-        n = n**2
-        n_sum = (n)*(n+1) // 2
-        found_sum = 0
+        # (a-b) = found_s1 - actual_s1
+        # (a² - b²) = (a-b)(a+b) = found_s2 - actual_s2
+        # (a+b) = (found_s2 - actual_s2) / (a-b)
 
-        for k, v in mpp.items():
-            if v==2:
-                rslt[0] = k
-            found_sum+=k
+        x = found_s1 - actual_s1
+        y = (found_s2 - actual_s2 ) // x
 
-        rslt[1] = (n_sum-found_sum)
-        return rslt
+        a = (x+y) // 2
+        b = a - x
 
+        return [a, b]
+
+        
