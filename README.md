@@ -206,6 +206,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1127-last-stone-weight](https://github.com/uixarsh/DSA/tree/master/1127-last-stone-weight) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -359,6 +360,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
