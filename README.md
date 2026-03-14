@@ -145,6 +145,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
+| [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -255,6 +256,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0002-add-two-numbers](https://github.com/uixarsh/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
+| [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
@@ -309,6 +311,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0125-valid-palindrome](https://github.com/uixarsh/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uixarsh/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uixarsh/DSA/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/uixarsh/DSA/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uixarsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
