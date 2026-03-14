@@ -315,6 +315,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/uixarsh/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/uixarsh/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -417,6 +418,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0077-combinations](https://github.com/uixarsh/DSA/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/uixarsh/DSA/tree/master/0216-combination-sum-iii) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/uixarsh/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 ## Stack
 |  |
