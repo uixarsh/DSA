@@ -150,6 +150,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -521,6 +522,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0225-implement-stack-using-queues](https://github.com/uixarsh/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uixarsh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/uixarsh/DSA/tree/master/0937-online-stock-span) |
+| [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
 ## Data Stream
 |  |
 | ------- |
@@ -541,4 +543,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
