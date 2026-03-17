@@ -210,6 +210,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/uixarsh/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -343,6 +344,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
@@ -365,6 +367,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0240-search-a-2d-matrix-ii](https://github.com/uixarsh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -515,6 +518,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
