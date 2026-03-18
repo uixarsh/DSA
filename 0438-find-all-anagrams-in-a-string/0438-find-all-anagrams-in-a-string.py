@@ -1,27 +1,35 @@
 class Solution:
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        if len(p) > len(s):
-            return []
+        n = len(s)
+        m = len(p)
+        mpp = {}
 
-        pCount, sCount = {}, {}
-
-        for i in range(len(p)):
-            pCount[p[i]] = 1 + pCount.get(p[i], 0)
-            sCount[s[i]] = 1 + sCount.get(s[i], 0)
-
-        res = [0] if sCount == pCount else []
-        l=0
+        for ele in p:
+            if ele not in mpp:
+                mpp[ele] = 1
+            else:
+                mpp[ele] += 1
         
-        for r in range(len(p), len(s)):
-            sCount[s[r]] = 1 + sCount.get(s[r], 0)
-            sCount[s[l]] -= 1
-        
-            if sCount[s[l]] == 0:
-                sCount.pop(s[l])
+        cnt = len(mpp)
+        ans = []
+        i = 0
+        j = 0
 
-            l+=1
+        while j<n:
+            curr_ele = s[j]
+            if curr_ele in mpp:
+                mpp[curr_ele] -= 1
+                if mpp[curr_ele] == 0:
+                    cnt -= 1
 
-            if sCount == pCount:
-                res.append(l)
+            if (j-i+1) == m:
+                if cnt == 0:
+                    ans.append(i)
+                if s[i] in mpp:
+                    mpp[s[i]] += 1
+                    if mpp[s[i]] == 1:
+                        cnt+=1
+                i+=1
+            j+=1
 
-        return res
+        return ans
