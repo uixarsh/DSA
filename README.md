@@ -217,6 +217,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -370,6 +371,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -491,6 +493,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/uixarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Database
