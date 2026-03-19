@@ -231,6 +231,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/uixarsh/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/uixarsh/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/uixarsh/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/uixarsh/DSA/tree/master/0205-isomorphic-strings) |
@@ -312,6 +313,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0013-roman-to-integer](https://github.com/uixarsh/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/uixarsh/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/uixarsh/DSA/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/uixarsh/DSA/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/uixarsh/DSA/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uixarsh/DSA/tree/master/0205-isomorphic-strings) |
@@ -456,6 +458,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uixarsh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/uixarsh/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/uixarsh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/uixarsh/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
