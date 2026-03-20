@@ -561,10 +561,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/uixarsh/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/uixarsh/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Quickselect
 |  |
@@ -578,4 +580,12 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
