@@ -147,6 +147,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -273,6 +274,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 ## Enumeration
@@ -420,6 +422,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Counting
 |  |
 | ------- |
