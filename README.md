@@ -181,6 +181,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/uixarsh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/uixarsh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/uixarsh/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/uixarsh/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/uixarsh/DSA/tree/master/0136-single-number) |
@@ -420,6 +421,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0078-subsets](https://github.com/uixarsh/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/uixarsh/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/uixarsh/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/uixarsh/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
@@ -461,6 +463,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0047-permutations-ii](https://github.com/uixarsh/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/uixarsh/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/uixarsh/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/uixarsh/DSA/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/uixarsh/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/uixarsh/DSA/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/uixarsh/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
