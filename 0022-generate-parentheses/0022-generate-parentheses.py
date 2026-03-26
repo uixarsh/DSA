@@ -1,24 +1,24 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        close = openn = n
-        op = []
+
+        def solve(opn, cl, out, rslt):
+            if opn == 0 and cl == 0:
+                rslt.append(out)
+                return
+
+            if opn != 0:
+                op1 = out
+                op1 += '('
+                solve(opn-1, cl, op1, rslt)
+            
+            if cl > opn:
+                op2 = out
+                op2 += ')'
+                solve(opn, cl-1, op2, rslt)
+
+        opn = cl = n
         rslt = []
-        self.solve(openn, close, op, rslt)
+        out = ""
+
+        solve(opn, cl, out, rslt)
         return rslt
-
-    def solve(self, openn, close, op, rslt):
-        if openn == 0 and close == 0:
-            rslt_str = "".join(op)
-            rslt.append(rslt_str)
-            return
-        
-        if openn != 0:
-            op.append('(')
-            self.solve(openn-1, close, op, rslt)
-            op.pop()
-        
-        if close > openn:
-            op.append(')')
-            self.solve(openn, close-1, op, rslt)
-            op.pop()
-
