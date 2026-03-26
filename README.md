@@ -152,6 +152,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -220,6 +221,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/uixarsh/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -280,6 +282,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
@@ -299,6 +302,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -513,6 +517,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0232-implement-queue-using-stacks](https://github.com/uixarsh/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/uixarsh/DSA/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
