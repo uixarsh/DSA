@@ -234,6 +234,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/uixarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/uixarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
@@ -263,6 +264,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -397,6 +400,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/uixarsh/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/uixarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/uixarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Two Pointers
@@ -543,6 +547,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/uixarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/uixarsh/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Database
 |  |
 | ------- |
