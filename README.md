@@ -155,6 +155,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -229,6 +230,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -306,6 +308,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +404,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/uixarsh/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/uixarsh/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
