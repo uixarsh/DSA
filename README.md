@@ -229,6 +229,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2144-maximum-difference-between-increasing-elements](https://github.com/uixarsh/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -361,6 +362,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -403,6 +405,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/uixarsh/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -463,6 +466,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/uixarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/uixarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Memoization
 |  |
@@ -585,6 +589,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/uixarsh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
@@ -615,6 +620,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/uixarsh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 ## Segment Tree
 |  |
 | ------- |
