@@ -366,6 +366,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/uixarsh/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -595,6 +596,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Design
 |  |
 | ------- |
@@ -637,4 +639,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
