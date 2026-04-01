@@ -230,6 +230,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -310,6 +311,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Binary Search
 |  |
@@ -385,6 +387,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/uixarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Divide and Conquer
@@ -509,6 +512,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uixarsh/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
+| [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 ## Sliding Window
 |  |
 | ------- |
