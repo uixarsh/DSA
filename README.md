@@ -310,6 +310,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/uixarsh/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -367,6 +368,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/uixarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/uixarsh/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2211-count-collisions-on-a-road](https://github.com/uixarsh/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/uixarsh/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
