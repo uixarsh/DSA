@@ -210,6 +210,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0745-find-smallest-letter-greater-than-target](https://github.com/uixarsh/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/uixarsh/DSA/tree/master/0792-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/uixarsh/DSA/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/uixarsh/DSA/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/uixarsh/DSA/tree/master/0966-binary-subarrays-with-sum) |
@@ -264,6 +265,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/uixarsh/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/uixarsh/DSA/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/uixarsh/DSA/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/uixarsh/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
@@ -309,6 +311,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0054-spiral-matrix](https://github.com/uixarsh/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/uixarsh/DSA/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/uixarsh/DSA/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/uixarsh/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
