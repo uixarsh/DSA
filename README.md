@@ -249,6 +249,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/uixarsh/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/uixarsh/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/uixarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/uixarsh/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/uixarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/uixarsh/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Linked List
 |  |
 | ------- |
