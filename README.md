@@ -160,6 +160,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/uixarsh/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/uixarsh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
