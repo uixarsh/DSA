@@ -237,6 +237,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2452-words-within-two-edits-of-dictionary](https://github.com/uixarsh/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/uixarsh/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/uixarsh/DSA/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -284,6 +285,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2615-sum-of-distances](https://github.com/uixarsh/DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -600,6 +602,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
+| [2615-sum-of-distances](https://github.com/uixarsh/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/uixarsh/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
