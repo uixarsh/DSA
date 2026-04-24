@@ -397,6 +397,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2452-words-within-two-edits-of-dictionary](https://github.com/uixarsh/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/uixarsh/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/uixarsh/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/uixarsh/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -493,6 +494,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0169-majority-element](https://github.com/uixarsh/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/uixarsh/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2833-furthest-point-from-origin](https://github.com/uixarsh/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
