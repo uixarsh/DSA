@@ -146,6 +146,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
+| [0396-rotate-function](https://github.com/uixarsh/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
@@ -205,6 +206,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0287-find-the-duplicate-number](https://github.com/uixarsh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/uixarsh/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/uixarsh/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/uixarsh/DSA/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/uixarsh/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/uixarsh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/uixarsh/DSA/tree/master/0503-next-greater-element-ii) |
@@ -520,6 +522,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0053-maximum-subarray](https://github.com/uixarsh/DSA/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/uixarsh/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/uixarsh/DSA/tree/master/0118-pascals-triangle) |
+| [0396-rotate-function](https://github.com/uixarsh/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
