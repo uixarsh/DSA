@@ -149,6 +149,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0396-rotate-function](https://github.com/uixarsh/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+| [0788-rotated-digits](https://github.com/uixarsh/DSA/tree/master/0788-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -525,6 +526,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0396-rotate-function](https://github.com/uixarsh/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
+| [0788-rotated-digits](https://github.com/uixarsh/DSA/tree/master/0788-rotated-digits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/uixarsh/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
