@@ -393,6 +393,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0784-letter-case-permutation](https://github.com/uixarsh/DSA/tree/master/0784-letter-case-permutation) |
+| [0796-rotate-string](https://github.com/uixarsh/DSA/tree/master/0796-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/uixarsh/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/uixarsh/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -718,6 +719,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/uixarsh/DSA/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
