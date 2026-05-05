@@ -310,6 +310,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0002-add-two-numbers](https://github.com/uixarsh/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/uixarsh/DSA/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -486,6 +487,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uixarsh/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/uixarsh/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/uixarsh/DSA/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/uixarsh/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/uixarsh/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/uixarsh/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/uixarsh/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
