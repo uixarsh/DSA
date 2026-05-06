@@ -234,6 +234,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/uixarsh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1861-rotating-the-box](https://github.com/uixarsh/DSA/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/uixarsh/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -465,6 +466,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1861-rotating-the-box](https://github.com/uixarsh/DSA/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/uixarsh/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/uixarsh/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -498,6 +500,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0567-permutation-in-string](https://github.com/uixarsh/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1861-rotating-the-box](https://github.com/uixarsh/DSA/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/uixarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
