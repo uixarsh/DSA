@@ -11,16 +11,16 @@ class Solution:
         n = len(nums)
         edges = defaultdict(list)
         for i, a in enumerate(nums):
-            if len(factors[a]) == 1:
-                edges[a].append(i)
+            for p in factors[a]:
+                edges[p].append(i)
         res = 0
         seen = [False] * n
-        seen[-1] = True
-        q = [n - 1]
+        seen[0] = True
+        q = [0]
         while True:
             q2 = []
             for i in q:
-                if i == 0:
+                if i == n - 1:
                     return res
                 if i > 0 and not seen[i - 1]:
                     seen[i - 1] = True
@@ -28,7 +28,8 @@ class Solution:
                 if i < n - 1 and not seen[i + 1]:
                     seen[i + 1] = True
                     q2.append(i + 1)
-                for p in factors[nums[i]]:
+                if len(factors[nums[i]]) == 1:
+                    p = nums[i]
                     for j in edges[p]:
                         if not seen[j]:
                             seen[j] = True
@@ -36,4 +37,3 @@ class Solution:
                     edges[p].clear()
             q = q2
             res += 1
-        
