@@ -163,6 +163,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/uixarsh/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/uixarsh/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/uixarsh/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
@@ -263,6 +264,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3488-closest-equal-element-queries](https://github.com/uixarsh/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/uixarsh/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/uixarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/uixarsh/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/uixarsh/DSA/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -304,6 +306,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/uixarsh/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/uixarsh/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/uixarsh/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/uixarsh/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -337,6 +340,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/uixarsh/DSA/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Simulation
 |  |
 | ------- |
@@ -719,6 +723,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/uixarsh/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/uixarsh/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
