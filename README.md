@@ -661,6 +661,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1148-article-views-i](https://github.com/uixarsh/DSA/tree/master/1148-article-views-i) |
 | [1153-product-sales-analysis-i](https://github.com/uixarsh/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/uixarsh/DSA/tree/master/1258-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/uixarsh/DSA/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/uixarsh/DSA/tree/master/1827-invalid-tweets) |
