@@ -666,6 +666,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1258-article-views-i](https://github.com/uixarsh/DSA/tree/master/1258-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/uixarsh/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/uixarsh/DSA/tree/master/1683-invalid-tweets) |
 | [1827-invalid-tweets](https://github.com/uixarsh/DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/uixarsh/DSA/tree/master/1908-recyclable-and-low-fat-products) |
