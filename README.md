@@ -232,6 +232,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1582-special-positions-in-a-binary-matrix](https://github.com/uixarsh/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/uixarsh/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/uixarsh/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/uixarsh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -441,6 +442,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/uixarsh/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/uixarsh/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -688,6 +690,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0402-remove-k-digits](https://github.com/uixarsh/DSA/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/uixarsh/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/uixarsh/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/uixarsh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
