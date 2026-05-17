@@ -678,6 +678,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1153-product-sales-analysis-i](https://github.com/uixarsh/DSA/tree/master/1153-product-sales-analysis-i) |
 | [1251-average-selling-price](https://github.com/uixarsh/DSA/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/uixarsh/DSA/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/uixarsh/DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/uixarsh/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
