@@ -226,6 +226,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0977-squares-of-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/uixarsh/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/uixarsh/DSA/tree/master/1127-last-stone-weight) |
+| [1306-jump-game-iii](https://github.com/uixarsh/DSA/tree/master/1306-jump-game-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/uixarsh/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/uixarsh/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -725,6 +726,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/uixarsh/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/uixarsh/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/uixarsh/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/uixarsh/DSA/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -747,6 +749,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uixarsh/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/uixarsh/DSA/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/uixarsh/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/uixarsh/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
