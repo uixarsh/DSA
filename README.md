@@ -252,6 +252,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/uixarsh/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/uixarsh/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/uixarsh/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/uixarsh/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/uixarsh/DSA/tree/master/2615-sum-of-distances) |
@@ -311,6 +312,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/uixarsh/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/uixarsh/DSA/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2540-minimum-common-value](https://github.com/uixarsh/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/uixarsh/DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/uixarsh/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -390,6 +392,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0745-find-smallest-letter-greater-than-target](https://github.com/uixarsh/DSA/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/uixarsh/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/uixarsh/DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [2540-minimum-common-value](https://github.com/uixarsh/DSA/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/uixarsh/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/uixarsh/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -524,6 +527,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0647-palindromic-substrings](https://github.com/uixarsh/DSA/tree/master/0647-palindromic-substrings) |
 | [0977-squares-of-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/uixarsh/DSA/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/uixarsh/DSA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/uixarsh/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bit Manipulation
 |  |
