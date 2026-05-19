@@ -1,20 +1,18 @@
 class Solution:
-    def getCommon(self, nums1: List[int], nums2: List[int]) -> int:
-        def bs(nums : List[int], ele : int):
-            start = 0
-            end = len(nums)-1
-            while start <= end:
-                mid = start + (end-start)//2
-                if nums[mid] == ele:
-                    return mid
-                elif nums[mid] > ele:
-                    end = mid-1
-                else:
-                    start = mid+1
-            return None
+    def getCommon(self, nums1, nums2):
+        first = 0
+        second = 0
 
-        for ele in nums1:
-            x = bs(nums2, ele)
-            if x is not None:
-                return ele
+        # Traverse through both arrays with two pointers
+        # Increment the pointer with a smaller value at that index
+        # Return the first common element found
+        while first < len(nums1) and second < len(nums2):
+            if nums1[first] < nums2[second]:
+                first += 1
+            elif nums1[first] > nums2[second]:
+                second += 1
+            else:
+                return nums1[first]
+
+        # Return -1 if there are no common elements
         return -1
