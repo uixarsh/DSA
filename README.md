@@ -674,6 +674,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/uixarsh/DSA/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/uixarsh/DSA/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/uixarsh/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/uixarsh/DSA/tree/master/0197-rising-temperature) |
