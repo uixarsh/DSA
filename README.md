@@ -263,6 +263,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2906-construct-product-matrix](https://github.com/uixarsh/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/uixarsh/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/uixarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/uixarsh/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -319,6 +320,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2784-check-if-array-is-good](https://github.com/uixarsh/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/uixarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3488-closest-equal-element-queries](https://github.com/uixarsh/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/uixarsh/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -440,6 +442,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2833-furthest-point-from-origin](https://github.com/uixarsh/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/uixarsh/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/uixarsh/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/uixarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
@@ -802,6 +805,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/uixarsh/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/uixarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Geometry
 |  |
 | ------- |
