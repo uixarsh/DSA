@@ -227,6 +227,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1046-max-consecutive-ones-iii](https://github.com/uixarsh/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/uixarsh/DSA/tree/master/1127-last-stone-weight) |
 | [1306-jump-game-iii](https://github.com/uixarsh/DSA/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/uixarsh/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/uixarsh/DSA/tree/master/1345-jump-game-iv) |
 | [1370-count-number-of-nice-subarrays](https://github.com/uixarsh/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/uixarsh/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -459,6 +460,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0451-sort-characters-by-frequency](https://github.com/uixarsh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0769-max-chunks-to-make-sorted](https://github.com/uixarsh/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/uixarsh/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1340-jump-game-v](https://github.com/uixarsh/DSA/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/uixarsh/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -570,6 +572,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/uixarsh/DSA/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/uixarsh/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/uixarsh/DSA/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/uixarsh/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/uixarsh/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
