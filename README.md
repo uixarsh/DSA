@@ -722,6 +722,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/uixarsh/DSA/tree/master/1484-group-sold-products-by-the-date) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/uixarsh/DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/uixarsh/DSA/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/uixarsh/DSA/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/uixarsh/DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/uixarsh/DSA/tree/master/1633-percentage-of-users-attended-a-contest) |
