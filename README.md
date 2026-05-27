@@ -141,6 +141,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0007-reverse-integer](https://github.com/uixarsh/DSA/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/uixarsh/DSA/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/uixarsh/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/uixarsh/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/uixarsh/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/uixarsh/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
@@ -342,6 +343,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | ------- |
 | [0002-add-two-numbers](https://github.com/uixarsh/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/uixarsh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/uixarsh/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/uixarsh/DSA/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/uixarsh/DSA/tree/master/0273-integer-to-english-words) |
 | [0509-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/0509-fibonacci-number) |
