@@ -12,6 +12,6 @@ class Solution:
             if n == 1:
                 return x
             
-            return solve(x*x, n//2) if n%2==0 else solve(x*x, n//2) * x
+            return solve(x**2, n//2) if n%2==0 else solve(x**2, n//2) * x
 
         return solve(x, n)
