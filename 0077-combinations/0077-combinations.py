@@ -1,19 +1,19 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        res = []
-        path = []
-        self.get_combinations(0, path, res, n, k)
-        return res
 
-    def get_combinations(self, start : int, path : List[int], res : List[List[int]], n : int, k : int):
+        if n<k:
+            return []
         
-        # Base Condition
-        if k==0:
-            res.append(path[:])
-            return
-        
-        # Control Statement
-        for i in range(start+1, n+1):
-            path.append(i)
-            self.get_combinations(i, path, res, n, k-1)
-            path.pop()
+        def solve(n, k, curr, rslt, tmp):
+            if k==0:
+                rslt.append(tmp[:])
+                return
+
+            for i in range(curr, n+1):
+                tmp.append(i)
+                solve(n, k-1, i+1, rslt, tmp)
+                tmp.pop()
+
+        rslt = []
+        solve(n, k, 1, rslt, [])
+        return rslt
