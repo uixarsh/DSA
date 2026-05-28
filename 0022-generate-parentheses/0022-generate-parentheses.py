@@ -7,7 +7,7 @@ class Solution:
                 rslt.append(new_str)
                 return
             
-            if op != 0:
+            if op > 0:
                 pair.append('(')
                 solve(op-1, cl, rslt, pair)
                 pair.pop()
@@ -18,8 +18,6 @@ class Solution:
                 pair.pop()
                         
 
-        rslt = []
-        pair = []
-        solve(n, n, rslt, pair)
+        rslt = [] 
+        solve(n, n, rslt, [])
         return rslt
-        
