@@ -3,17 +3,23 @@ class Solution:
         
         def solve(op, cl, rslt, pair):
             if op==0 and cl==0:
-                rslt.append(pair)
+                new_str = "".join(pair)
+                rslt.append(new_str)
                 return
             
             if op != 0:
-                solve(op-1, cl, rslt, pair+'(')
+                pair.append('(')
+                solve(op-1, cl, rslt, pair)
+                pair.pop()
             
             if op < cl:
-                solve(op, cl-1, rslt, pair+')')
+                pair.append(')')
+                solve(op, cl-1, rslt, pair)
+                pair.pop()
                         
 
         rslt = []
-        solve(n, n, rslt, "")
+        pair = []
+        solve(n, n, rslt, pair)
         return rslt
         
