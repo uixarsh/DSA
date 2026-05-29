@@ -163,6 +163,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2965-find-missing-and-repeated-values](https://github.com/uixarsh/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/uixarsh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/uixarsh/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/uixarsh/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/uixarsh/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -274,6 +275,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
 | [3225-maximum-score-from-grid-operations](https://github.com/uixarsh/DSA/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/uixarsh/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uixarsh/DSA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/uixarsh/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/uixarsh/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
