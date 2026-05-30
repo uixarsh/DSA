@@ -272,6 +272,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/uixarsh/DSA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/uixarsh/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/uixarsh/DSA/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/uixarsh/DSA/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uixarsh/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/uixarsh/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3221-find-the-peaks](https://github.com/uixarsh/DSA/tree/master/3221-find-the-peaks) |
@@ -409,6 +410,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0792-binary-search](https://github.com/uixarsh/DSA/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/uixarsh/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/uixarsh/DSA/tree/master/2540-minimum-common-value) |
+| [3161-block-placement-queries](https://github.com/uixarsh/DSA/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/uixarsh/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/uixarsh/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -812,6 +814,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/uixarsh/DSA/tree/master/3161-block-placement-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -844,4 +847,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/uixarsh/DSA/tree/master/0486-predict-the-winner) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/uixarsh/DSA/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
