@@ -157,6 +157,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/uixarsh/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/uixarsh/DSA/tree/master/1622-fancy-sequence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/1922-count-good-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/uixarsh/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 | [2491-smallest-even-multiple](https://github.com/uixarsh/DSA/tree/master/2491-smallest-even-multiple) |
@@ -360,6 +361,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [0779-k-th-symbol-in-grammar](https://github.com/uixarsh/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/uixarsh/DSA/tree/master/1013-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/uixarsh/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/uixarsh/DSA/tree/master/2050-count-good-numbers) |
 ## Enumeration
 |  |
