@@ -255,6 +255,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [2078-two-furthest-houses-with-different-colors](https://github.com/uixarsh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/uixarsh/DSA/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/uixarsh/DSA/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/uixarsh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2195-time-needed-to-buy-tickets](https://github.com/uixarsh/DSA/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/uixarsh/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -484,6 +485,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/uixarsh/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/uixarsh/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/uixarsh/DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/uixarsh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/uixarsh/DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2751-robot-collisions](https://github.com/uixarsh/DSA/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/uixarsh/DSA/tree/master/2784-check-if-array-is-good) |
@@ -775,6 +777,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/ShaanCoding/
 | [1727-largest-submatrix-with-rearrangements](https://github.com/uixarsh/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/uixarsh/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/uixarsh/DSA/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/uixarsh/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/uixarsh/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/uixarsh/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/uixarsh/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
