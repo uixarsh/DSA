@@ -1,21 +1,18 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        
-        def solve(nums, rslt, curr):
-            
-            if len(nums) == 0:
+
+        def solve(i):
+            if i == len(nums):
                 rslt.append(curr[:])
                 return
 
-            ele = nums.pop(0)
+            solve(i + 1)
 
-            solve(nums, rslt, curr)
-            curr.append(ele)
-            solve(nums, rslt, curr)
-
-            nums.insert(0, ele)
+            curr.append(nums[i])
+            solve(i + 1)
             curr.pop()
 
         rslt = []
-        solve(nums, rslt, [])
+        curr = []
+        solve(0)
         return rslt
