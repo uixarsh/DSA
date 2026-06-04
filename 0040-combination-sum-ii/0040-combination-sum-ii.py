@@ -8,23 +8,27 @@ class Solution:
 
             if summ == target:
                 rslt.append(curr[:])
-                return
+                return True
 
             if idx >= n or summ > target:
+                return False
+            
+            ele = candidates[idx]
+            
+            if ele > target - summ:
                 return
 
             # NOT PICK
             next_idx = idx + 1
-            while next_idx < n and candidates[next_idx] == candidates[idx]:
+            while next_idx < n and candidates[next_idx] == ele:
                 next_idx += 1
 
             solve(next_idx, summ, curr)
 
             # PICK
-            if summ + candidates[idx] <= target:
-                curr.append(candidates[idx])
-                solve(idx + 1, summ + candidates[idx], curr)
-                curr.pop()
+            curr.append(ele)
+            solve(idx + 1, summ + ele, curr)
+            curr.pop()
 
         rslt = []
         solve(0, 0, [])
