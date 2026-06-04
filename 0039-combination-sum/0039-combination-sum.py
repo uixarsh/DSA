@@ -1,7 +1,8 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-
-        def solve(idx, summ ,curr, rslt):
+        
+        # HYPOTHESIS : Either Consider the same element or increase the index
+        def solve(idx, summ ,curr):
             if idx == n:
                 return
 
@@ -14,12 +15,12 @@ class Solution:
 
             ele = candidates[idx] 
             curr.append(ele)
-            solve(idx, summ+ele, curr, rslt)
+            solve(idx, summ+ele, curr)
             curr.pop()
 
-            solve(idx+1, summ, curr, rslt)
+            solve(idx+1, summ, curr)
 
         n = len(candidates)
         rslt = []
-        solve(0, 0, [], rslt)
+        solve(0, 0, [])
         return rslt
