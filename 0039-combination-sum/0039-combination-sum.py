@@ -3,14 +3,15 @@ class Solution:
         
         # HYPOTHESIS : Either Consider the same element or increase the index
         def solve(idx, summ ,curr):
-            if idx == n:
+
+            if summ == target:
+                rslt.append(curr[:])
                 return
 
             if summ > target:
                 return
 
-            if summ == target:
-                rslt.append(curr[:])
+            if idx >= n:
                 return
 
             ele = candidates[idx] 
