@@ -21,9 +21,10 @@ class Solution:
             solve(next_idx, summ, curr)
 
             # PICK
-            curr.append(candidates[idx])
-            solve(idx + 1, summ + candidates[idx], curr)
-            curr.pop()
+            if summ + candidates[idx] <= target:
+                curr.append(candidates[idx])
+                solve(idx + 1, summ + candidates[idx], curr)
+                curr.pop()
 
         rslt = []
         solve(0, 0, [])
