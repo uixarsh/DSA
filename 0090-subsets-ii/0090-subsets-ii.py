@@ -1,23 +1,26 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
 
-        def solve(nums, rslt, temp):
-            if len(nums) == 0:
-                temp.sort()
-                if temp in rslt:
-                    return
-                rslt.append(temp)
+        def solve(idx, curr):
+
+            if idx == n:
+                rslt.append(curr[:])
                 return
 
-            op1 = temp.copy()
-            op2 = temp.copy()
-            op2.append(nums[0])
-            nums = nums[1:]
-
-            solve(nums, rslt, op1)
-            solve(nums, rslt, op2)
+            nxt = idx + 1
+            while nxt < n and nums[nxt] == nums[idx]:
+                nxt += 1
             
-        ans = []
-        solve(nums, ans, [])
+            # Unpick
+            solve(nxt, curr)
 
-        return ans
+            # Pick 
+            curr.append(nums[idx])
+            solve(idx+1, curr)
+            curr.pop()
+
+        n = len(nums)
+        rslt = []
+        solve(0, [])
+        return rslt
